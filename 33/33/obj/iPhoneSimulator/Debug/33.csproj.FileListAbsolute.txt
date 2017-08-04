@@ -1,0 +1,9 @@
+/Users/jarvis/Projects/33/33/bin/iPhoneSimulator/Debug/33.exe
+/Users/jarvis/Projects/33/33/bin/iPhoneSimulator/Debug/33.pdb
+/Users/jarvis/Projects/33/33/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jarvis/Projects/33/33/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/jarvis/Projects/33/33/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/jarvis/Projects/33/33/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/jarvis/Projects/33/33/obj/iPhoneSimulator/Debug/33.csproj.CoreCompileInputs.cache
+/Users/jarvis/Projects/33/33/obj/iPhoneSimulator/Debug/33.exe
+/Users/jarvis/Projects/33/33/obj/iPhoneSimulator/Debug/33.pdb
