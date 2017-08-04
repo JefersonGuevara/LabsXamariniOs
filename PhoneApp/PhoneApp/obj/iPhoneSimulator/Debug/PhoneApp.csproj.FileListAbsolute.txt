@@ -1,0 +1,13 @@
+/Users/jarvis/Projects/PhoneApp/PhoneApp/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jarvis/Projects/PhoneApp/PhoneApp/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/jarvis/Projects/PhoneApp/PhoneApp/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/jarvis/Projects/PhoneApp/PhoneApp/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/jarvis/Projects/PhoneApp/PhoneApp/obj/iPhoneSimulator/Debug/PhoneApp.csproj.CoreCompileInputs.cache
+/Users/jarvis/Projects/PhoneApp/PhoneApp/bin/iPhoneSimulator/Debug/PhoneApp.exe
+/Users/jarvis/Projects/PhoneApp/PhoneApp/bin/iPhoneSimulator/Debug/PhoneApp.pdb
+/Users/jarvis/Projects/PhoneApp/PhoneApp/obj/iPhoneSimulator/Debug/PhoneApp.exe
+/Users/jarvis/Projects/PhoneApp/PhoneApp/obj/iPhoneSimulator/Debug/PhoneApp.pdb
+/Users/jarvis/Projects/PhoneApp/PhoneApp/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jarvis/Projects/PhoneApp/PhoneApp/bin/iPhoneSimulator/Debug/SALLab05.dll
+/Users/jarvis/Projects/PhoneApp/PhoneApp/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/jarvis/Projects/PhoneApp/PhoneApp/obj/iPhoneSimulator/Debug/PhoneApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B9FA99C0-B826-463E-9943-B57452FAE8F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneApp/ViewController.cs">
+    <Files>
+      <File FileName="PhoneApp/ViewController.cs" Line="41" Column="50" />
+      <File FileName="PhoneApp/PhoneTraslator.cs" Line="5" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PhoneApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9AA4FF0D-8CD9-435F-A273-91505E47388A" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
